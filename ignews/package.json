@@ -1,0 +1,30 @@
+{
+  "name": "y",
+  "version": "y",
+  "private": true,
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^11.0.0",
+    "node-sass": "4.14.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.2.0",
+    "stripe": "^8.156.0"
+  },
+  "devDependencies": {
+    "@types/node": "^15.12.2",
+    "@types/react": "^17.0.11",
+    "css-loader": "^5.2.6",
+    "style-loader": "^2.0.0",
+    "typescript": "^4.3.2"
+  },
+  "description": "y",
+  "main": "y",
+  "repository": "y",
+  "author": "y",
+  "license": "y"
+}
