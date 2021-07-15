@@ -228,7 +228,7 @@ module.exports = {
 /***/ (function(module) {
 
 "use strict";
-module.exports = JSON.parse('{"name":"y","version":"y","private":true,"scripts":{"dev":"next","build":"next build","start":"next start"},"dependencies":{"next":"^11.0.0","next-auth":"^3.27.1","node-sass":"4.14.1","react":"^17.0.2","react-dom":"^17.0.2"},"devDependencies":{"@types/node":"^15.12.2","@types/react":"^17.0.11","css-loader":"^5.2.6","react-icons":"^4.2.0","stripe":"^8.160.0","style-loader":"^2.0.0","types":"^0.1.1","typescript":"^4.3.2"},"description":"y","main":"y","repository":"y","author":"y","license":"y"}');
+module.exports = JSON.parse('{"name":"y","version":"y","private":true,"scripts":{"dev":"next","build":"next build","start":"next start"},"dependencies":{"@types/next-auth":"^3.15.0","next":"^11.0.0","next-auth":"^3.27.3","node-sass":"4.14.1","react":"^17.0.2","react-dom":"^17.0.2"},"devDependencies":{"@types/node":"^15.12.2","@types/react":"^17.0.11","css-loader":"^5.2.6","react-icons":"^4.2.0","stripe":"^8.160.0","style-loader":"^2.0.0","types":"^0.1.1","typescript":"^4.3.2"},"description":"y","main":"y","repository":"y","author":"y","license":"y"}');
 
 /***/ }),
 
