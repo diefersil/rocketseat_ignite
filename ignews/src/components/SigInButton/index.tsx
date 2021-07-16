@@ -7,7 +7,7 @@ export function SigInButton(){
 
     const [session] = useSession()
 
-    console.log(session)
+    console.log('teste ' + session)
 
     return session ? (
 
