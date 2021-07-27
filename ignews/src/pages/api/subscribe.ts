@@ -1,10 +1,10 @@
 import { NextApiRequest, NextApiResponse } from 'next';
 import { getSession } from 'next-auth/client';
-import { stripe } from '../../../services/stripe';
+import { stripe } from '../../services/stripe';
 
 export default async ( req: NextApiRequest, res: NextApiResponse ) => {
 
-    if( req.method == 'POST' ){
+    if( req.method === 'POST' ){
 
         const session = await getSession({req})
 
